@@ -33,7 +33,7 @@ requirements:
     - matplotlib-base
     - poetry
     - causal-learn
-    - python >={{ python_min }},<3.12
+    - python >={{ python_min }},<3.14
     - cvxpy >=1.2.2
 
 test:
